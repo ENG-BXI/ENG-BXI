@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdalrhman Muneer Aljaeedi</h1>
 <h3 align="center">Mobile developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-bxi&label=Profile%20views&color=0e75b6&style=flat" alt="eng-bxi" /> </p>
-
-
-
 <p align="left"> <a href="https://twitter.com/eng_bxi" target="blank"><img src="https://img.shields.io/twitter/follow/eng_bxi?logo=twitter&style=for-the-badge" alt="eng_bxi" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
