@@ -1,23 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19866
-Fork on GitHub
-5988
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdalrhman Muneer Aljaeedi</h1>
 <h3 align="center">Mobile developer</h3>
-<img align="center" alt="Coding" width="700" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-bxi&label=Profile%20views&color=0e75b6&style=flat" alt="eng-bxi" /> </p>
 
@@ -50,28 +32,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-bxi&show_icons=true&locale=en" alt="eng-bxi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-bxi&" alt="eng-bxi" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
