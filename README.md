@@ -42,7 +42,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
             alt="eng_0_bxi" height="30" width="40" /></a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"
         rel="noreferrer"> <img
@@ -135,7 +135,7 @@
         rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
             width="40" height="40" /> </a> </p>
-
+-->
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-bxi&show_icons=true&locale=en&layout=compact"
         alt="eng-bxi" /></p>
