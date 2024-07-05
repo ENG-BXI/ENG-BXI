@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdalrhman Muneer Aljaeedi</h1>
 <h3 align="center">Mobile developer</h3>
 <p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/d97d794b3d1f5535f1fbf79b1db3da42ead4e481cb915ead32443f409948a1c2/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652670617573653d313030302677696474683d333030266c696e65733d4120536f66747761726520446576656c6f706572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;width=300&amp;lines=A Software Developer" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd5fca9b76fa963def7a65017ba82bbb9e20be283f6df809d6d5100ba75248a7/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e35346533376438303734656263646531643936633737643762326137663331303f72696b3d6658334a53437365496259634b41267069643d496d6752617726723d30"><img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cd5fca9b76fa963def7a65017ba82bbb9e20be283f6df809d6d5100ba75248a7/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e35346533376438303734656263646531643936633737643762326137663331303f72696b3d6658334a53437365496259634b41267069643d496d6752617726723d30" data-canonical-src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&amp;pid=ImgRaw&amp;r=0" style="max-width: 100%;"></a></p>
+
 <p align="left"> <a href="https://twitter.com/eng_bxi" target="blank"><img
             src="https://img.shields.io/twitter/follow/eng_bxi?logo=twitter&style=for-the-badge"
             alt="eng_bxi" /></a> </p>
