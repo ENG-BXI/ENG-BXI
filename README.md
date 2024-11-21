@@ -1,19 +1,19 @@
 <!--[![MasterHead](https://pin.it/3ahnz8sdX)]-->
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/5f86cb132934297.61b2977433100.jpg" alt="ProfileImage" width="1000" height="400">
-<h1 align="center">Hi 👋, I'm Abdalrhman Muneer Aljaeedi</h1>
-<h3 align="center">Mobile developer</h3>
+<h1 align="center">Hi 👋, I'm Abdulrahman Muneer Aljaaidi</h1>
+<h3 align="center">Web Developer</h3>
 <p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/d97d794b3d1f5535f1fbf79b1db3da42ead4e481cb915ead32443f409948a1c2/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652670617573653d313030302677696474683d333030266c696e65733d4120536f66747761726520446576656c6f706572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;width=300&amp;lines=A Software Developer" style="max-width: 100%;"></a>
 
 <p align="left"> <a href="https://twitter.com/eng_bxi" target="blank"><img
             src="https://img.shields.io/twitter/follow/eng_bxi?logo=twitter&style=for-the-badge"
             alt="eng_bxi" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/ENG-BXI](https://github.com/ENG-BXI)
 
-- 💬 Ask me about **Flutter ,C# ,C++,Sql Server**
+- 💬 Ask me about  ** React , Flutter ,C# ,C++,Sql Server**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
