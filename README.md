@@ -1,150 +1,190 @@
-<!--[![MasterHead](https://pin.it/3ahnz8sdX)]-->
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/5f86cb132934297.61b2977433100.jpg" alt="ProfileImage" width="1000" height="400">
-<h1 align="center">Hi 👋, I'm Abdulrahman Muneer Aljaaidi</h1>
-<h3 align="center">Web Developer</h3>
-<p dir="auto"><a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/d97d794b3d1f5535f1fbf79b1db3da42ead4e481cb915ead32443f409948a1c2/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652670617573653d313030302677696474683d333030266c696e65733d4120536f66747761726520446576656c6f706572" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;width=300&amp;lines=A Software Developer" style="max-width: 100%;"></a>
+<div align="center">
+  <a href="#">
+    <img
+      width="100%"
+      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
+</div>
+<!-- <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%"
+  />
+</p> -->
 
-<p align="left"> <a href="https://twitter.com/eng_bxi" target="blank"><img
-            src="https://img.shields.io/twitter/follow/eng_bxi?logo=twitter&style=for-the-badge"
-            alt="eng_bxi" /></a> </p>
+<!-- MasterHead -->
+<a href="./fallout.gif">
+  <img  src="./fallout.gif" alt="Fallout GIF" style="width:100vw; height:400px"/>
+</a>
 
-- 🌱 I’m currently learning **React**
+<!-- <h1 align="left">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+ENG-BXI+here+🔥+!;+SOFTWARE+ENGINERING+HERE+🔥+!"  alt="Typing Animation" style="width:100%"/>
+Greeting
+</h1> -->
+<br/>
+<h1 align="center">Hi 👋 I'm Abdulrahman</h1>
 
-- 👨‍💻 All of my projects are available at
-[https://github.com/ENG-BXI](https://github.com/ENG-BXI)
+<h4 align="left">🌟 I'm currently pursuing a Bachelor's degree in Computer Engineering, with a strong focus on building my programming skills through real-world projects. After learning React.js, I’ve started working with Next.js to deepen my understanding of modern web development. While I’m currently focused on mastering frontend and full-stack concepts using Next.js, I plan to explore backend development more deeply in the future. My journey is driven by a passion for learning and creating scalable, efficient software solutions.</h4>
 
-- 💬 Ask me about  ** React , Flutter ,C# ,C++,Sql Server**
+ <div style="display:flex;justify-content:center;padding-top:1rem" align="center">
+<!-- Profile Views -->
+<a href="https://github.com/ENG-BXI" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=ENG-BXI&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://dev.to/eng-bxi" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="eng-bxi" height="30" width="40" /></a>
-    <a href="https://twitter.com/eng_bxi" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="eng_bxi" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/عبدالرحمن منير خميس الجعيدي"
-        target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="عبدالرحمن منير خميس الجعيدي" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/24583930" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="24583930" height="30" width="40" /></a>
-    <a href="https://fb.com/abdalrhman aljaeedi" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="abdalrhman aljaeedi" height="30" width="40" /></a>
-    <a href="https://instagram.com/eng_bxi" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="eng_bxi" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/eng_0_bxi" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="eng_0_bxi" height="30" width="40" /></a>
-</p>
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" /> </a> <a
-        href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a
-        href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> </a> <a
-        href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev"
-        target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-            alt="dart" width="40" height="40" /> </a> <a
-        href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" /> </a> <a
-        href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-            alt="figma" width="40" height="40" /> </a> <a
-        href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase" width="40" height="40" /> </a> <a
-        href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-            alt="flutter" width="40" height="40" /> </a> <a
-        href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a
-        href="https://www.adobe.com/in/products/illustrator.html"
-        target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-            alt="illustrator" width="40" height="40" /> </a> <a
-        href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-            alt="kotlin" width="40" height="40" /> </a> <a
-        href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux" width="40" height="40" /> </a> <a
-        href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-            alt="matlab" width="40" height="40" /> </a> <a
-        href="https://www.microsoft.com/en-us/sql-server" target="_blank"
-        rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-            alt="mssql" width="40" height="40" /> </a> <a
-        href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a
-        href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a
-        href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a> <a
-        href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a
-        href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-            alt="php" width="40" height="40" /> </a> <a
-        href="https://postman.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman" width="40" height="40" /> </a> <a
-        href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a
-        href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative"
-            width="40" height="40" /> </a> <a href="https://www.sqlite.org/"
-        target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-            alt="sqlite" width="40" height="40" /> </a> <a
-        href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
-            alt="xamarin" width="40" height="40" /> </a> <a
-        href="https://www.adobe.com/products/xd.html" target="_blank"
-        rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
-            width="40" height="40" /> </a> </p>
+<!-- Total Stars with GitHub Logo -->
+<a href="https://github.com/ENG-BXI?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/ENG-BXI?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+<!-- Followers with GitHub Logo -->
+<a href="https://github.com/ENG-BXI?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/ENG-BXI?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
+</div>
+
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<img align="right" alt="coding-gif" width="450" src="./transparent_gitgif.gif">
+
+<!-- about me -->
+ <h3 align="left">💫 About Me</h3>
+
+<!-- <p align="left">
+   <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+   </a>
+   </p> -->
+
+<div align="left">
+<h4> 
+  🌱 I am currently developing my skills in frontend and full-stack web development.
+🔭 I have experience with React.js and I’m currently learning Next.js to build modern, scalable web applications.
+💬 I’ve worked with several popular React libraries and tools that enhance state management, form handling, routing, and styling.
+⚡ I’m planning to explore backend development soon, along with topics like system architecture, APIs, and databases.
+✨ I’m driven by a passion for clean code, performance, and continuous learning.</h4>
+<h3>🧲 Connect me :</h3>
+
+<!-- <div style="display:flex">
+<a href="mailto:thadijoshua@gmail.com">
+  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a>
+
+  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
+    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a>
+
+  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
+    <img width="60px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?" alt="Portfolio Badge"></a>
+
+<a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
+  <img width="60px" src="https://cdn.jim-nielsen.com/watchos/512/spotify-music-and-podcasts-2020-03-19.png?rf=1024" alt="Spotify Badge"></a>
+
+<a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
+  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="YouTube Badge"></a>
+</div>
+</div>
+  <a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+
+</div></h4>
+
+</div>
+<br/>
 -->
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-bxi&show_icons=true&locale=en&layout=compact"
-        alt="eng-bxi" /></p>
+<!-- Experence and experencing
+<h3 align="center">🔆 Work'ed and Wor'king</h3>
+<div align="center" style="display: flex; gap: 10px;">
+    <img src="./hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
+    <img src="./hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
+</div> -->
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=eng-bxi&show_icons=true&locale=en"
-        alt="eng-bxi" /></p>
+<!-- git stat-->
+<h3 align="center">🌱 Github Status</h3>
+<br>
+<div align="center">
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=ENG-BXI&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-BXI&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+</div>
 
-<p><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=eng-bxi&"
-        alt="eng-bxi" /></p>
+<br/><br/>
+
+<!-- lang-->
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+
+<br/>
+
+<div align='center'>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,tailwind,bootstrap,javascript,ts,vscode" /><br>
+  <div align='center' style="display:flex;justify-content:center;margin-block:0.5rem;column-gap:0.52rem;padding:0">
+      <img style="width:35px;hight:50px;background-color:#242938;padding:0.5rem;border-radius:10px" src='https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg'/>
+      <img style="width:35px;hight:50px;background-color:#242938;padding:0.5rem;border-radius:10px" src='https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/react-query-icon-xjukes5xosrrwg3y3ics1f.png/react-query-icon-2dw36yx2b016w37mbipyn.png?_a=DATAdtAAZAA0'/>
+      <img style="width:35px;hight:50px;background-color:#242938;padding:0.5rem;border-radius:10px" src='https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg'/>
+      <img style="width:35px;hight:50px;background-color:#242938;padding:0.5rem;border-radius:10px" src='https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/shadcnui-n2c5lru1lx9lbs736w8pj.png/shadcnui-ujq65a3wzira1tpnsqm7vl.png?_a=DATAdtAAZAA0'/>
+      <img style="width:35px;hight:50px;background-color:#242938;padding:0.5rem;border-radius:10px" src='https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/vector-icons/brand-framer-motion-pk1mas1m7u9hi06fqzq77f.png/brand-framer-motion-nuunolaqtcs7zlblwkjs.png?_a=DATAdtAAZAA0'/>
+      <img style="width:35px;hight:50px;background-color:#242938;padding:0.5rem;border-radius:10px" src='https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/zod-jxeoj68ny4h94671educq4.png/zod-xe0a17we1j8ox6lns9ruf.png?_a=DATAdtAAZAA0'/>
+    <img style='margin-left:0.15rem' src="https://skillicons.dev/icons?i=netlify,vercel,vite" />
+  </div>
+    <img src="https://skillicons.dev/icons?i=html,css,github,git,githubactions,notion,obsidian,figma,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=supabase,appwrite,firebase,bash,kali,ubuntu,jest,postman" />
+    <!-- comming Soon ....
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma,bun,express,githubactions,jest,nestjs,netlify,vercel,nginx,postgres,postman,redux,supabase,vite,vscode" /><br> -->
+</div>
+
+<br/>
+
+<!-- top repo and teck stack
+<div align="center">
+  <h3>⭐️ Best Repositories</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/ENG-BXI/Data-Science">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+    <a href="https://github.com/ENG-BXI/Artificial-Intelligence">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
+    </a>
+</div> -->
+
+  <!-- <h3>💻 Tech Stack:</h3>
+     <br/>
+  <div align="center">
+  <img src="https://img.shields.io/badge/next%20js-%23000000.svg?style=for-the-badge&logo=next%20js&logoColor=%23F7DF1E" alt="next" />
+  <img src="https://img.shields.io/badge/react%20js-%230ff000.svg?style=for-the-badge&logo=react%20js&logoColor=%23F7DF1E" alt="react" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </div>
+  <div align="center"> 
+  </div> -->
+
+<!--<h3>⭐ Top Contributed Repo!</h3>
+       <br/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <br/>-->
+
+<!-- support -->
+<!-- <h3 align="center">Support Me 💰 </h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
+ <a href="https://buymeacoffee.com/joshuathadi">
+    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>
+</p> -->
+
+<!--<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
+</h1>-->
+
+<!-- ending-->
+
+<img
+  width="100%"
+  src="./green.gif"
+/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height='0.4'/>
+
+<p>⚠️ This README is designed by <strong>ENG-BXI</strong>.
