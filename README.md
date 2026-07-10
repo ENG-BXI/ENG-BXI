@@ -16,7 +16,7 @@
 
 <!-- MasterHead -->
 <a href="./fallout.gif">
-  <img  src="./fallout.gif" alt="Fallout GIF" style="width:100vw; height:400px"/>
+  <img  src="./preview-image.png" alt="Fallout GIF" style="width:100vw; height:400px"/>
 </a>
 
 <!-- <h1 align="left">
